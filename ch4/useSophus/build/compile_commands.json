@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yuntian/gitRepository/mySlambook/ch4/useSophus/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3    -o CMakeFiles/useSophus.dir/useSophus.cpp.o -c /home/yuntian/gitRepository/mySlambook/ch4/useSophus/useSophus.cpp",
+  "file": "/home/yuntian/gitRepository/mySlambook/ch4/useSophus/useSophus.cpp"
+}
+]

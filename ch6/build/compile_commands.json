@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yuntian/myCpp_ws/ceres-solver/build",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DGFLAGS_IS_A_DLL=0 -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/local/opencv3.4/include -isystem /usr/local/opencv3.4/include/opencv -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu -I/usr/local/include/pcl-1.9 -isystem /usr/include/eigen3 -I/usr/include/ni -I/usr/include/openni2 -isystem /usr/local/include  -std=c++14  -g   -std=gnu++11 -o CMakeFiles/ceres_tutorial.dir/ceres_toturial.cpp.o -c /home/yuntian/myCpp_ws/ceres-solver/src/ceres_toturial.cpp",
+  "file": "/home/yuntian/myCpp_ws/ceres-solver/src/ceres_toturial.cpp"
+},
+{
+  "directory": "/home/yuntian/myCpp_ws/ceres-solver/build",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DGFLAGS_IS_A_DLL=0 -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/local/opencv3.4/include -isystem /usr/local/opencv3.4/include/opencv -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu -I/usr/local/include/pcl-1.9 -isystem /usr/include/eigen3 -I/usr/include/ni -I/usr/include/openni2 -isystem /usr/local/include  -std=c++14  -g   -std=gnu++11 -o CMakeFiles/curve_fitting.dir/curve_fitting.cpp.o -c /home/yuntian/myCpp_ws/ceres-solver/src/curve_fitting.cpp",
+  "file": "/home/yuntian/myCpp_ws/ceres-solver/src/curve_fitting.cpp"
+}
+]
