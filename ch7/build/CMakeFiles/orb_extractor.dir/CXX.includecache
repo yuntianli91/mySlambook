@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuntianli/gitRepository/mySlambook/ch7/src/orb_extraction.cpp
+iostream
+-
+cmath
+-
+algorithm
+-
+opencv2/opencv.hpp
+-
+

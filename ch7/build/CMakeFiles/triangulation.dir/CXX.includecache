@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuntianli/gitRepository/mySlambook/ch7/src/triangulation.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuntianli/gitRepository/mySlambook/ch7/src/flann_match.cpp
+stdio.h
+-
+iostream
+-
+stdio.h
+-
+iostream
+-
+opencv2/opencv.hpp
+-
+
