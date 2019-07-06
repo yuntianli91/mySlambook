@@ -10,6 +10,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.10.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeSystem.cmake"
+  "/home/yuntianli/gitRepository/mySlambook/ch7/cmake_module/FindCSparse.cmake"
+  "/home/yuntianli/gitRepository/mySlambook/ch7/cmake_module/FindG2O.cmake"
   "/home/yuntianli/gitRepository/mySlambook/ch7/src/CMakeLists.txt"
   "/usr/share/OpenCV/OpenCVConfig-version.cmake"
   "/usr/share/OpenCV/OpenCVConfig.cmake"

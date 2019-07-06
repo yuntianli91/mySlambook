@@ -10,8 +10,9 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/yuntianli/gitRepository/mySlambook/ch7/src/OpenCV_DIRS"
   "/usr/include/opencv"
+  "/usr/include/suitesparse"
+  "/usr/include/eigen3"
   )
 
 # Targets to which this target links.

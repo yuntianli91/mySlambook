@@ -116,6 +116,7 @@ pose_2d3d: /usr/lib/x86_64-linux-gnu/libopencv_text.so.3.2.0
 pose_2d3d: /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.3.2.0
 pose_2d3d: /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.3.2.0
 pose_2d3d: /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.3.2.0
+pose_2d3d: /usr/lib/x86_64-linux-gnu/libcxsparse.so
 pose_2d3d: /usr/lib/x86_64-linux-gnu/libopencv_video.so.3.2.0
 pose_2d3d: /usr/lib/x86_64-linux-gnu/libopencv_viz.so.3.2.0
 pose_2d3d: /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.3.2.0

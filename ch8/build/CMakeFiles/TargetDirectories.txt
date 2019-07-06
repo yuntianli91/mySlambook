@@ -1,0 +1,3 @@
+/home/yuntianli/gitRepository/mySlambook/ch8/build/CMakeFiles/rebuild_cache.dir
+/home/yuntianli/gitRepository/mySlambook/ch8/build/CMakeFiles/direct_sparse.dir
+/home/yuntianli/gitRepository/mySlambook/ch8/build/CMakeFiles/edit_cache.dir
