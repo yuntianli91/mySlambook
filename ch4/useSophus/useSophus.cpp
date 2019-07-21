@@ -61,6 +61,22 @@ int main( int argc, char** argv )
     Sophus::SE3<double> SE3_updated = Sophus::SE3<double>::exp(update_se3)*SE3_Rt;
     
     cout<<"SE3 updated = "<<endl<<SE3_updated.matrix()<<endl;
+ 
+    Sophus::SE3<double> se3_init = Sophus::SE3<double>();
+    cout << "init se3_init :" << se3_init.log() << endl
+        << "init_se3 hat: " << Sophus::SE3<double>::hat(se3_init.log()) << endl;
+
+    Eigen::Matrix3d R2;
+    R2 << 1, 0, 0, 
+          0, 1, 0,
+          0, 0, 1;
+    Eigen::Vector3d t2(0, 0, 0);
+
+    Sophus::SE3<double> se3_identity(R2,t2);
     
+    cout << "SE3 identity: " << endl << se3_identity.log() << endl;
+    cout << "SE3_identity hat: " << endl << Sophus::SE3<double>::hat(se3_identity.log()) << endl;
+    cout << "SO3_identity is:" << endl << se3_identity.so3().log() << endl;
+    cout << "transformation matrix from se3 identity is: " << endl << se3_identity.matrix() << endl;
     return 0;
 }

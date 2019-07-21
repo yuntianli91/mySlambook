@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/yuntian/gitRepository/mySlambook/ch4/useSophus/useSophus.cpp" "/home/yuntian/gitRepository/mySlambook/ch4/useSophus/build/CMakeFiles/useSophus.dir/useSophus.cpp.o"
+  "/home/yuntianli/gitRepository/mySlambook/ch4/useSophus/useSophus.cpp" "/home/yuntianli/gitRepository/mySlambook/ch4/useSophus/build/CMakeFiles/useSophus.dir/useSophus.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

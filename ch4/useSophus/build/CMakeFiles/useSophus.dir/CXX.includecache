@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/yuntian/gitRepository/mySlambook/ch4/useSophus/useSophus.cpp
+/home/yuntianli/gitRepository/mySlambook/ch4/useSophus/useSophus.cpp
 iostream
 -
 cmath
@@ -16,9 +16,9 @@ Eigen/Core
 Eigen/Geometry
 -
 sophus/so3.hpp
-/home/yuntian/gitRepository/mySlambook/ch4/useSophus/sophus/so3.hpp
+/home/yuntianli/gitRepository/mySlambook/ch4/useSophus/sophus/so3.hpp
 sophus/se3.hpp
-/home/yuntian/gitRepository/mySlambook/ch4/useSophus/sophus/se3.hpp
+/home/yuntianli/gitRepository/mySlambook/ch4/useSophus/sophus/se3.hpp
 
 /usr/include/eigen3/Eigen/Cholesky
 Core
